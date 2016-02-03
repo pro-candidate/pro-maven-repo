@@ -1,5 +1,5 @@
 package com.github.maven.example.tests;
-
+/* this is a test */
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
