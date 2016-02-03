@@ -2,6 +2,7 @@ package com.github.maven.example;
 
 /**
  * Simple wigdet class that can be enabled or disabled
+ * Adding test comment to trigger CI/CD enviorment
  */
 public class Widget {
 
