@@ -42,8 +42,8 @@
 	</properties>
 
 	<build>
-	<!--	<plugins>
-			<plugin>
+		<plugins>
+		<!--	<plugin>
 				<groupId>com.github.github</groupId>
 				<artifactId>downloads-maven-plugin</artifactId>
 				<version>0.6</version>
